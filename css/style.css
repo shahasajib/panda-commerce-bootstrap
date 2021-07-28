@@ -1,0 +1,27 @@
+.panda-info-background{
+    background-color: #fceae8;
+}
+
+.panda-btn-info{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+.panda-container img{
+    width: 100px;
+}
+.panda-ctg-background1{
+    background-color: #ffa500;
+    color: white;
+}
+.panda-ctg-background2{
+    background-color: #da70d6;
+    color: white;
+}
+.panda-ctg-background3{
+    background-color: #0000ff;
+    color: white;
+}
